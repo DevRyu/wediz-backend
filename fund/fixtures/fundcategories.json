@@ -1,0 +1,122 @@
+[
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 1,
+        "fields" : {
+            "name" : "테크가전"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 2,
+        "fields" : {
+            "name" : "패션잡화"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 3,
+        "fields" : {
+            "name" : "뷰티"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 4,
+        "fields" : {
+            "name" : "푸드"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 5,
+        "fields" : {
+            "name" : "홈리빙"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 6,
+        "fields" : {
+            "name" : "디자인소품"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 7,
+        "fields" : {
+            "name" : "여행레저"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 8,
+        "fields" : {
+            "name" : "스포츠모빌리티"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 9,
+        "fields" : {
+            "name" : "반려동물"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 10,
+        "fields" : {
+            "name" : "모임"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 11,
+        "fields" : {
+            "name" : "공연컬처"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 12,
+        "fields" : {
+            "name" : "소셜캠페인"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 13,
+        "fields" : {
+            "name" : "공연컬처"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 14,
+        "fields" : {
+            "name" : "교육키즈"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 15,
+        "fields" : {
+            "name" : "게임취미"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 16,
+        "fields" : {
+            "name" : "출판"
+        }
+    },
+    {
+        "model" : "fund.fundcategory",
+        "pk"  : 17,
+        "fields" : {
+            "name" : "기부후원"
+        }
+    }
+]
+    

@@ -1,0 +1,94 @@
+[
+    {
+        "model" : "fund.document",
+        "pk"  : 1,
+        "fields" : {
+            "name" : "HW"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 2,
+        "fields" : {
+            "name" : "SW"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 3,
+        "fields" : {
+            "name" : "HW+SW"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 4,
+        "fields" : {
+            "name" : "화장품"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 5,
+        "fields" : {
+            "name" : "의약외품"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 6,
+        "fields" : {
+            "name" : "디자인제품"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 7,
+        "fields" : {
+            "name" : "디퓨저향초탈취제"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 8,
+        "fields" : {
+            "name" : "신선식품"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 9,
+        "fields" : {
+            "name" : "가공식품"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 10,
+        "fields" : {
+            "name" : "건강기능식품"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 11,
+        "fields" : {
+            "name" : "문화"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 12,
+        "fields" : {
+            "name" : "출판"
+        }
+    },
+    {
+        "model" : "fund.document",
+        "pk"  : 13,
+        "fields" : {
+            "name" : "기타"
+        }
+    }
+]
+    
